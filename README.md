@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youbek&label=Profile%20views&color=0e75b6&style=flat" alt="youbek" /> </p>
 
-- 🔭 I’m currently working on EdClerk.com [EdClerk.com](https://edclerk.com)
-
 - 🌱 I’m currently learning CS50's Web Development **Python, Django, SQL...**
 
 - 📫 How to reach me **yusufbek.a@outlook.com**
