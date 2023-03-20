@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youbek&label=Profile%20views&color=0e75b6&style=flat" alt="youbek" /> </p>
 
-- 🌱 I’m currently looking for Senior JavaScript/TypeScript Software Engineer
+- 🌱 I’m currently working at [Ids Company](https://ids.company/)
 - ⚒️ Previously worked as a JavaScript/TypeScript software engineer using techs like Node.js, React, GraphQL, MongoDB, PostgreSQL, Nest.js, Next.js and etc. Worked in big tech companies like EPAM, Sphere Partners. 
 
 - 📫 How to reach me **yusufbek.a@outlook.com**
